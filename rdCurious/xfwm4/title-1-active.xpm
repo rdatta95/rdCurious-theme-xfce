@@ -1,0 +1,10 @@
+/* XPM */
+static char * title_1_active_xpm[] = {
+"2 5 2 1",
+"  c None",
+"+ s active_color_1",
+"++",
+"++",
+"++",
+"++",
+"++"};
