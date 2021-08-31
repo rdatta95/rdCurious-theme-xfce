@@ -1,0 +1,26 @@
+##  References:
+##  	https://wiki.xfce.org/howto/xfwm4_theme
+
+button_offset=2
+button_spacing=4
+
+show_app_icon=true
+
+title_shadow_active=false
+title_shadow_inactive=false
+
+active_color_1=#cccccc
+active_text_color=active_color_1
+
+inactive_color_1=#888888
+inactive_text_color=inactive_color_1
+
+# button_layout :
+#    O = Option menu
+#    T = Stick
+#    H = hide
+#    S = shade
+#    M = maximize
+#    C = close
+#    | = title
+button_layout=|C
